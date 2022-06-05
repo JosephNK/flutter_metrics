@@ -1,0 +1,21 @@
+name: flutter_metrics
+description: This plugin is a plugin that applies the text size using the TextScaleFactor value.
+version: 1.0.0
+homepage: https://github.com/JosephNK/flutter_metrics
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  shared_preferences: ^2.0.13
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
