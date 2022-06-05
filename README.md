@@ -1,5 +1,7 @@
 # Flutter Metrics
 
+[![pub](https://img.shields.io/pub/v/flutter_metrics.svg?style=flat)](https://pub.dev/packages/flutter_metrics)
+
 This plugin is a plugin that applies the text size using the TextScaleFactor value.
 
 ## How to use
